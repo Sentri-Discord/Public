@@ -1,0 +1,139 @@
+# Privacy Policy
+
+Last updated: June 12, 2026
+
+This Privacy Policy explains how SENTRI Bot ("SENTRI", "the bot", "we", "us", or "our") collects, uses, stores, and protects information when you use the SENTRI Discord bot and related dashboard.
+
+By using SENTRI, inviting it to a Discord server, or configuring it through the dashboard, you agree to this Privacy Policy.
+
+## 1. What SENTRI Is
+
+SENTRI is a Discord security and moderation bot designed to help protect server staff identity by detecting possible impersonation and applying configured moderation actions, such as nickname changes.
+
+SENTRI is not affiliated with, endorsed by, or operated by Discord Inc.
+
+## 2. Information We Collect
+
+SENTRI may receive or store the following information from Discord or from dashboard configuration:
+
+- Discord server IDs;
+- Discord role IDs selected as protected roles;
+- Discord role IDs selected as whitelisted or ignored roles;
+- Discord user IDs when required for bot events or moderation checks;
+- usernames, display names, nicknames, and server member data needed to compare names;
+- bot command usage needed to process admin commands;
+- timestamps related to configuration updates;
+- dashboard login session information required for Discord OAuth login.
+
+SENTRI does not intentionally store normal message contents for its core protection features.
+
+## 3. How We Use Information
+
+We use information to:
+
+- provide SENTRI's name protection and impersonation detection features;
+- determine which members are protected or whitelisted;
+- rename members when configured detection rules are triggered;
+- show and save server configuration in the dashboard;
+- verify that dashboard users have permission to manage a Discord server;
+- troubleshoot errors, abuse, or service issues;
+- maintain bot reliability and security.
+
+## 4. Discord OAuth and Dashboard Login
+
+If you sign in to the SENTRI dashboard with Discord, Discord may provide basic account and server information based on the OAuth scopes requested.
+
+SENTRI uses this information to:
+
+- identify you in the dashboard;
+- list Discord servers you can manage;
+- verify whether you have permission to configure SENTRI for a server.
+
+The dashboard should only allow configuration for servers where your Discord permissions indicate that you can manage the server.
+
+## 5. Stored Configuration Data
+
+SENTRI stores server configuration data such as:
+
+- guild/server ID;
+- protected role IDs;
+- whitelisted or ignored role IDs;
+- update timestamps.
+
+This data may be stored in a database service such as Supabase and may be accessed by both the dashboard and bot so settings stay synchronized.
+
+## 6. Hosting and Third-Party Services
+
+SENTRI may use third-party services to operate the bot and dashboard, including:
+
+- Discord, for bot and OAuth functionality;
+- Supabase, for database storage;
+- Render, for website or dashboard hosting;
+- DigitalOcean or similar infrastructure providers, for bot hosting.
+
+These services may process information according to their own privacy policies and terms.
+
+## 7. Data Retention
+
+SENTRI keeps server configuration data for as long as needed to provide the bot's services.
+
+Configuration data may be deleted if:
+
+- the bot is removed from a server;
+- a server owner or authorized administrator requests deletion;
+- the service is discontinued;
+- we determine that continued storage is no longer necessary.
+
+Some logs or backups may remain temporarily for security, debugging, or operational purposes.
+
+## 8. Data Sharing
+
+We do not sell SENTRI configuration data.
+
+We may share or disclose information only when:
+
+- needed to operate the bot or dashboard through hosting/database providers;
+- required to comply with law, legal process, or platform rules;
+- necessary to investigate abuse, security issues, or violations of our Terms;
+- requested by an authorized server owner or administrator for their server.
+
+## 9. Security
+
+We use reasonable measures to protect stored configuration data and service credentials.
+
+However, no online service can guarantee perfect security. Server owners and administrators should use strong account security, limit bot permissions to what is necessary, and avoid sharing sensitive keys or tokens.
+
+## 10. Children's Privacy
+
+SENTRI is intended for use within Discord servers and is subject to Discord's own age requirements and policies.
+
+SENTRI is not designed to knowingly collect personal information from children outside of normal Discord bot event data required to provide moderation features.
+
+## 11. Your Choices
+
+Server owners and authorized administrators may:
+
+- remove SENTRI from a Discord server;
+- change protected or whitelisted role settings;
+- request deletion of server configuration data;
+- stop using the dashboard.
+
+Users who do not want SENTRI to process their Discord server member data should contact their server administrators or leave servers where SENTRI is installed.
+
+## 12. Data Deletion Requests
+
+To request deletion of SENTRI configuration data for a server, contact us with:
+
+- the Discord server ID;
+- proof that you are the server owner or authorized administrator;
+- a clear request to delete SENTRI data.
+
+## 13. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Continued use of SENTRI after updates are posted means you accept the updated policy.
+
+## 14. Contact
+
+For privacy questions, support, or data deletion requests, contact:
+
+Discord: sizzrime
