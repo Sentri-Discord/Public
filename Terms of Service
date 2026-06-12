@@ -1,0 +1,106 @@
+# Terms of Service
+
+Last updated: June 12, 2026
+
+These Terms of Service ("Terms") apply to your use of SENTRI Bot ("SENTRI", "the bot", "we", "us", or "our"). By inviting, configuring, or using SENTRI in a Discord server, you agree to these Terms.
+
+If you do not agree to these Terms, do not use SENTRI and remove the bot from your server.
+
+## 1. What SENTRI Does
+
+SENTRI is a Discord security and moderation bot designed to help protect staff identity in Discord servers. Depending on your configuration, SENTRI may:
+
+- monitor member joins and nickname/display-name changes;
+- compare member names against protected staff or owner names;
+- rename members whose names appear to impersonate protected members;
+- store server-specific protected role and whitelist role settings;
+- provide dashboard and command-based configuration tools.
+
+SENTRI is not a replacement for human moderation, Discord's own moderation systems, or your responsibility to manage your server.
+
+## 2. Eligibility and Authority
+
+You may use SENTRI only if you are allowed to manage the Discord server where the bot is installed.
+
+By configuring SENTRI, you represent that you have permission from the server owner or appropriate administrators to:
+
+- invite the bot;
+- grant the bot permissions;
+- configure protected and whitelisted roles;
+- allow SENTRI to take moderation-related actions such as nickname changes.
+
+## 3. Discord Terms
+
+Your use of SENTRI must comply with Discord's Terms of Service, Community Guidelines, Developer Terms, Developer Policy, and any other applicable Discord rules.
+
+SENTRI is not affiliated with, endorsed by, or operated by Discord Inc.
+
+## 4. Bot Permissions
+
+SENTRI may require Discord permissions such as:
+
+- View Channels;
+- Read Message History;
+- Manage Nicknames;
+- Use Application Commands;
+- access to server member events and related bot intents.
+
+You are responsible for granting only the permissions you are comfortable giving. SENTRI may not function correctly if required permissions are missing or if its role is below members it needs to moderate.
+
+## 5. Acceptable Use
+
+You agree not to use SENTRI to:
+
+- harass, target, or abuse users;
+- evade Discord rules or enforcement;
+- impersonate Discord, SENTRI, or another service;
+- collect information beyond normal server moderation needs;
+- overload, disrupt, reverse engineer, or exploit the bot or dashboard;
+- use the bot in a way that violates laws, regulations, or platform policies.
+
+We may block, disable, or remove access to SENTRI from any server that abuses the bot or creates risk for the service.
+
+## 6. Data and Configuration
+
+SENTRI may store server configuration data, including:
+
+- Discord server IDs;
+- protected role IDs;
+- whitelisted or ignored role IDs;
+- timestamps for configuration updates.
+
+SENTRI does not intentionally store message contents for normal operation. Discord may still provide event data to the bot as needed for configured features.
+
+For more detail about data handling, publish and refer to a separate Privacy Policy.
+
+## 7. Availability and Changes
+
+SENTRI is provided on an "as is" and "as available" basis. We may update, modify, suspend, or discontinue any part of the bot or dashboard at any time.
+
+We do not guarantee that SENTRI will always be online, error-free, or able to prevent every impersonation attempt.
+
+## 8. Moderation Actions
+
+SENTRI may automatically rename users when its configured checks detect possible staff impersonation.
+
+Server administrators are responsible for reviewing SENTRI's behavior, configuring roles correctly, and correcting mistakes if they occur. SENTRI's detection may produce false positives or false negatives.
+
+## 9. Limitation of Liability
+
+To the maximum extent permitted by law, SENTRI and its operators are not liable for indirect, incidental, special, consequential, or punitive damages, including server disruption, moderation mistakes, lost data, or loss of access arising from use of the bot.
+
+## 10. Termination
+
+You may stop using SENTRI at any time by removing it from your Discord server.
+
+We may suspend or terminate access to SENTRI for any server or user that violates these Terms, violates Discord policies, creates security risk, or abuses the service.
+
+## 11. Changes to These Terms
+
+We may update these Terms from time to time. Continued use of SENTRI after changes are posted means you accept the updated Terms.
+
+## 12. Contact
+
+For questions, support, or removal requests, contact:
+
+Discord: sizzrime
